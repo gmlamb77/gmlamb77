@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gmlamb77
-- 👀 I’m interested in software dev.
-- 🌱 I’m currently learning javascript and ruby on rails.
+- 👀 I’m a aspiring front end engineer.
+- 🌱 I’m currently learning react and vanilla javascript.
 - 💞️ I’m looking to collaborate on EVERYTHING I CAN!
 - 📫 You cna reach me at my email! gmlamb77@gmail.com
 
