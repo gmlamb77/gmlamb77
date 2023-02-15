@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gmlamb77
-- 👀 I’m a aspiring front end engineer.
+- 👀 I’m an aspiring front end engineer.
 - 🌱 I’m currently learning react and vanilla javascript.
 - 💞️ I’m looking to collaborate on EVERYTHING I CAN!
 - 📫 You cna reach me at my email! gmlamb77@gmail.com
